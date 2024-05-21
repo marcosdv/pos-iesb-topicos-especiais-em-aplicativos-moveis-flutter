@@ -8,7 +8,7 @@
 ### Conteúdo
 
 - [ ] Aula 01 - Introdução a criação de Temas no Flutter - 21/05/2024
-- [ ] Aula 02
+- [ ] Aula 02 - Gerência de estados com MobX - 28/05/2024
 - [ ] Aula 03
 - [ ] Aula 04
 - [ ] Aula 05
