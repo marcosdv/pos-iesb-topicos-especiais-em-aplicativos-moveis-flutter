@@ -8,7 +8,7 @@
 ### Conteúdo
 
 - [x] Aula 01 - Introdução a criação de Temas no Flutter - 21/05/2024
-- [ ] Aula 02 - Gerência de estados com MobX - 28/05/2024
+- [ ] Aula 02 - Gerência de estados com MobX - 04/06/2024
 - [ ] Aula 03 - Consumindo API JSON, Aminações, MobX
 - [ ] Aula 04 - Consumindo API JSON, Aminações, MobX
 - [ ] Aula 05 - Consumindo API JSON, Aminações, MobX
