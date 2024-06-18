@@ -9,10 +9,10 @@
 
 - [x] Aula 01 - Introdução a criação de Temas no Flutter - 21/05/2024
 - [x] Aula 02 - Etanol x Gasolina - Gerência de estados com MobX - 04/06/2024
-- [ ] Aula 03 - Consumindo API JSON, Aminações, MobX - 18/06/2024
+- [ ] Aula 03 - Injeção de Dependências - GetIt - Injectable - 18/06/2024
 - [ ] Aula 04 - Consumindo API JSON, Aminações, MobX - 25/06/2024
-- [ ] Aula 05 - Consumindo API JSON, Aminações, MobX
-- [ ] Aula 06 - Consumindo API JSON, Aminações, MobX
+- [ ] Aula 05 - Consumindo API JSON, Aminações, MobX - 16/07/2024
+- [ ] Aula 06 - Consumindo API JSON, Aminações, MobX - 23/07/2024
 
 ### Tecnologias
 
