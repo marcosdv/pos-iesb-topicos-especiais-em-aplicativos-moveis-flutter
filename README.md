@@ -12,7 +12,7 @@
 - [x] Aula 03 - Injeção de Dependências - GetIt - Injectable - 18/06/2024
 - [x] Aula 04 - Consumindo API JSON, Animações, MobX - 16/07/2024
 - [x] Aula 05 - Consumindo API JSON, Animações, MobX - 18/07/2024
-- [ ] Aula 06 - Consumindo API JSON, Animações, MobX - 23/07/2024
+- [x] Aula 06 - Consumindo API JSON, Animações, MobX - 23/07/2024
 
 ### Tecnologias
 
