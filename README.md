@@ -18,6 +18,6 @@
 
 As seguintes ferramentas foram usadas na construção dos projetos:
 
-- [Flutter](https://flutter.dev/)
 - [Android Studio](https://developer.android.com/studio)
+- [Flutter](https://flutter.dev/)
 - [Dart Packages](https://pub.dev/)
